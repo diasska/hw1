@@ -14,6 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+<<<<<<< HEAD
     <dependencies>
         <dependency>
             <groupId>org.springframework</groupId>
@@ -21,4 +22,6 @@
             <version>6.2.2</version>
         </dependency>
     </dependencies>
+=======
+>>>>>>> 0d7fe9ed915df6be58ef191f34d87e007820366e
 </project>

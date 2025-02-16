@@ -1,8 +1,5 @@
 package org.example;
 
-import org.springframework.context.ApplicationContext;
-import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-
 
 public class Main {
     public static void main(String[] args) {
@@ -22,5 +19,6 @@ public class Main {
        System.out.println(ownerBook.getAge());
        ownerBook.setName("Alex");
        System.out.println(ownerBook.getInfo());
+
     }
 }
